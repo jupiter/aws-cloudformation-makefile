@@ -1,0 +1,3 @@
+--stack-name cloudformation-hello-demo
+--parameter-overrides
+MyFunctionName=cloudformation-hello-demo
